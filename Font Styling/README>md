@@ -1,0 +1,34 @@
+Font Styling
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Font Style Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <h1>Font Style Demonstration</h1>
+
+    <p style="font-family: Arial; font-size: 18px;">
+        This text uses Arial font family with size 18px.
+    </p>
+
+    <p style="font-family: 'Times New Roman'; font-size: 20px; font-style: italic;">
+        This text is italic using Times New Roman font.
+    </p>
+
+    <p style="font-family: Verdana; font-size: 16px; font-weight: bold;">
+        This text is bold using Verdana font.
+    </p>
+
+    <p style="font-family: Georgia; font-size: 22px; font-style: oblique;">
+        This text is oblique using Georgia font.
+    </p>
+
+    <p style="font-family: Courier New; font-size: 18px; text-decoration: underline;">
+        This text is underlined using Courier New font.
+    </p>
+
+</body>
+</html>
