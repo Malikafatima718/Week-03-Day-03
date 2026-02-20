@@ -1,0 +1,21 @@
+Background colour
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Background Change Example</title>
+
+    <style>
+        body {
+            background-color: lightblue;   /* Change this color */
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>Background Color Webpage</h1>
+    <p>The background color of this page is light blue.</p>
+
+</body>
+</html>
